@@ -1,0 +1,1 @@
+pip install numpy pandas librosa soundfile tensorflow==2.12.0 tqdm unidecode
